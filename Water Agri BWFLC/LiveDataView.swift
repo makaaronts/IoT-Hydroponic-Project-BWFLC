@@ -19,6 +19,7 @@ struct LiveDataView: View {
                     AirTemperatureDataCard()
                     AirHumidityDataCard()
                     LumensDataCard()
+                    WaterDepthDataCard()
                 }
             }
             .navigationTitle("Live Data")

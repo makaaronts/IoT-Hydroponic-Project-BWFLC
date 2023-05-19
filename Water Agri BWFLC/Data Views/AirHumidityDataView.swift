@@ -15,7 +15,7 @@ struct AirHumidityDataView: View {
             List {
                 Chart {
                     ForEach(data, id: \.entryId) { feed in
-                        LineMark(x: .value(feed.createdAt, feed.createdAt), y: .value("%", feed.field5))
+                        LineMark(x: .value(feed.createdAt, feed.createdAt), y: .value("%", Int(feed.field5) ?? 0))
                     }
                     
                 }
