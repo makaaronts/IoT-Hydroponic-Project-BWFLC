@@ -30,7 +30,7 @@ struct WaterDepthDataCard: View {
                 }
             }
             .layoutPriority(100)
-            .frame(width: 300, height: 150)
+            .frame(width: 340, height: 150)
             .cornerRadius(20)
             .overlay(RoundedRectangle(cornerRadius: 20)
                 .stroke(Color(.sRGB, red: 150/255, green: 150/255, blue: 150/255, opacity: 0.5), lineWidth: 10)
