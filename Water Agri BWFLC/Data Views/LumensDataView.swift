@@ -15,7 +15,7 @@ struct LumensDataView: View {
             List {
                 Chart {
                     ForEach(data, id: \.createdAt) { feed in
-                        LineMark(x: .value(feed.createdAt, feed.createdAt), y: .value("SI", feed.field6))
+                        LineMark(x: .value(feed.createdAt, feed.createdAt), y: .value("SI", Int(feed.field6) ?? 0))
                     }
                 }
                 .frame(height: 250)

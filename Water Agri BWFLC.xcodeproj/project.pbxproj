@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		05D1CE222A17780E0079EB1B /* WaterDepthDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D1CE212A17780E0079EB1B /* WaterDepthDataView.swift */; };
+		05D1CE242A1778400079EB1B /* WaterDepthDataCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D1CE232A1778400079EB1B /* WaterDepthDataCard.swift */; };
 		351BF20E2A1663960006B92E /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351BF20D2A1663960006B92E /* SettingsView.swift */; };
 		351BF2102A1664780006B92E /* AppInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351BF20F2A1664780006B92E /* AppInfoView.swift */; };
 		3532F69C2A14DDB700F950EB /* Water_Agri_BWFLCApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532F69B2A14DDB700F950EB /* Water_Agri_BWFLCApp.swift */; };
@@ -30,6 +32,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		05D1CE212A17780E0079EB1B /* WaterDepthDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterDepthDataView.swift; sourceTree = "<group>"; };
+		05D1CE232A1778400079EB1B /* WaterDepthDataCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterDepthDataCard.swift; sourceTree = "<group>"; };
 		351BF20D2A1663960006B92E /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		351BF20F2A1664780006B92E /* AppInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppInfoView.swift; sourceTree = "<group>"; };
 		3532F6982A14DDB700F950EB /* Water Agri BWFLC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Water Agri BWFLC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -115,6 +119,7 @@
 				3532F6AC2A14DE1B00F950EB /* AirTemperatureDataCard.swift */,
 				3532F6B42A14DFB300F950EB /* LumensDataCard.swift */,
 				3532F6B62A14E01300F950EB /* AirHumidityDataCard.swift */,
+				05D1CE232A1778400079EB1B /* WaterDepthDataCard.swift */,
 			);
 			path = "Data Cards";
 			sourceTree = "<group>";
@@ -127,6 +132,7 @@
 				3532F6B22A14DF3A00F950EB /* AirHumidityDataView.swift */,
 				3532F6B82A14E06300F950EB /* LumensDataView.swift */,
 				3532F6BA2A14E09100F950EB /* AirTemperatureDataView.swift */,
+				05D1CE212A17780E0079EB1B /* WaterDepthDataView.swift */,
 			);
 			path = "Data Views";
 			sourceTree = "<group>";
@@ -208,6 +214,7 @@
 				351BF2102A1664780006B92E /* AppInfoView.swift in Sources */,
 				3569E8462A1750680035FED4 /* SoilHumidityBottomDataCard.swift in Sources */,
 				3532F6BD2A14E0E900F950EB /* LiveDataView.swift in Sources */,
+				05D1CE242A1778400079EB1B /* WaterDepthDataCard.swift in Sources */,
 				3532F6C12A14E14000F950EB /* AboutView.swift in Sources */,
 				3532F6AD2A14DE1B00F950EB /* AirTemperatureDataCard.swift in Sources */,
 				3532F6B32A14DF3A00F950EB /* AirHumidityDataView.swift in Sources */,
@@ -219,6 +226,7 @@
 				3532F6BF2A14E11D00F950EB /* CreditView.swift in Sources */,
 				3532F6B52A14DFB300F950EB /* LumensDataCard.swift in Sources */,
 				3532F69C2A14DDB700F950EB /* Water_Agri_BWFLCApp.swift in Sources */,
+				05D1CE222A17780E0079EB1B /* WaterDepthDataView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

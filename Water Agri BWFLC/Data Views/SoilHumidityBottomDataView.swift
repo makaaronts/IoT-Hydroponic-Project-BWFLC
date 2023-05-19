@@ -18,7 +18,7 @@ struct SoilHumidityBottomDataView: View {
                     .fontWeight(.bold)
                     Chart {
                         ForEach(data, id: \.entryId) { feed in
-                            LineMark(x: .value(feed.createdAt, feed.createdAt), y: .value("%", feed.field3))
+                            LineMark(x: .value(feed.createdAt, feed.createdAt), y: .value("%", Int(feed.field3) ?? 0))
                         }
                     }
                 .frame(height: 250)
