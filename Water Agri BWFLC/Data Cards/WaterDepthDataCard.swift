@@ -14,7 +14,7 @@ struct WaterDepthDataCard: View {
         NavigationLink(destination: WaterDepthDataView()) {
             ForEach(data, id: \.entryId) { feed in
                 VStack(alignment: .center, spacing: 15) {
-                    Text(feed.field1)
+                    Text("\(feed.field1)m")
                         .font(.title)
                         .fontWeight(.bold)
                         .foregroundColor(.blue)
