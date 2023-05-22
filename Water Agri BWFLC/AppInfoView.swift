@@ -31,5 +31,7 @@ struct AppInfoView: View {
             }
             .navigationTitle("App Information")
         }
+        .scrollDisabled(true)
+        .scrollContentBackground(.hidden)
     }
 }
