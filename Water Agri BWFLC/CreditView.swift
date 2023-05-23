@@ -20,6 +20,9 @@ struct CreditView: View {
                 Section(header: Text("Technical Support")) {
                     Text("Mr Vincent Fung")
                 }
+                Section(header: Text("App Icon Designer")) {
+                    Text("Anonymous")
+                }
             }
             .navigationTitle("Credits")
         }
