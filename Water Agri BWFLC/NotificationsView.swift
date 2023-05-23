@@ -18,7 +18,7 @@ struct NotificationsView: View {
                 .buttonStyle(.borderedProminent)
                 List {
                     Section(header: Text("About Enable Notifications")) {
-                        Text("After enable notifications in this app, this app will send you a notification of a data daily summary.")
+                        Text("After enable notifications in this app, this app will send you a notification of live data.")
                     }
                 }
             }
@@ -35,7 +35,7 @@ struct NotificationsView: View {
         }
         let content = UNMutableNotificationContent()
             content.title = "Hey User! 👋"
-            content.body = "Check out the live data in our app"
+            content.body = "Remember to check out the live data in our app."
             content.sound = UNNotificationSound.default
         let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 3600, repeats: true)
         let request = UNNotificationRequest(identifier: "Water Agri BWFLC Notifications", content: content, trigger: trigger)

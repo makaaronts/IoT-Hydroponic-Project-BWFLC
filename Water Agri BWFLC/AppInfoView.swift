@@ -12,7 +12,7 @@ struct AppInfoView: View {
         NavigationStack {
             List {
                 Section(header: Text("App Version & Description")) {
-                    Text("3.0.1 - In-App Notification Updates")
+                    Text("3.0.2 - In-App Notification Updates")
                 }
                 Section(header: Text("Minimum System Requirements")) {
                     Text("iOS 16.0")
