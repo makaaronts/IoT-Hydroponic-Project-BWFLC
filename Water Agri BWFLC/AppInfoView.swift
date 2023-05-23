@@ -11,24 +11,16 @@ struct AppInfoView: View {
     var body: some View {
         NavigationStack {
             List {
-                Section(header: Text("App Version")) {
-                    Text("2.1.1")
-                }
-                Section(header: Text("Version Description")) {
-                    Text("App Updates & Bug fixes")
+                Section(header: Text("App Version & Description")) {
+                    Text("2.1.2 - App Updates & Bug Fixes")
                 }
                 Section(header: Text("Minimum System Requirements")) {
                     Text("iOS 16.0")
-                    Text("iPadOS 16.0")
                 }
                 Section(header: Text("Suitable Platforms")) {
                     HStack {
                         Image(systemName: "iphone.gen2")
                         Text("iPhone")
-                    }
-                    HStack {
-                        Image(systemName: "ipad.gen2")
-                        Text("iPad")
                     }
                 }
             }
