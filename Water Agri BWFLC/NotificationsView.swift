@@ -37,7 +37,7 @@ struct NotificationsView: View {
             content.title = "Hey User! 👋"
             content.body = "Remember to check out the live data in our app."
             content.sound = UNNotificationSound.default
-        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 60, repeats: true)
+        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 3600, repeats: true)
         let request = UNNotificationRequest(identifier: "Water Agri BWFLC Notifications", content: content, trigger: trigger)
         UNUserNotificationCenter.current().add(request)
         UNUserNotificationCenter.current().removeAllPendingNotificationRequests()
