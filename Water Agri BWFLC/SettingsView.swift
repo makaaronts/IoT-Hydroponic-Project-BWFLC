@@ -32,6 +32,13 @@ struct SettingsView: View {
                         Text("App Information")
                     }
                 }
+                NavigationLink(destination: NotificationsView()) {
+                    HStack {
+                        Image(systemName: "bell.fill")
+                            .foregroundColor(.blue)
+                        Text("Notifications")
+                    }
+                }
             }
             .font(.system(size: 25))
             .navigationTitle("Settings")

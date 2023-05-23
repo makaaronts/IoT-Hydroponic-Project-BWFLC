@@ -26,7 +26,7 @@
 		3532F6BD2A14E0E900F950EB /* LiveDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532F6BC2A14E0E900F950EB /* LiveDataView.swift */; };
 		3532F6BF2A14E11D00F950EB /* CreditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532F6BE2A14E11D00F950EB /* CreditView.swift */; };
 		3532F6C12A14E14000F950EB /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532F6C02A14E14000F950EB /* AboutView.swift */; };
-		354189DA2A15DB1900186F4D /* Notification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354189D92A15DB1900186F4D /* Notification.swift */; };
+		353689E62A1CBB55004CEE28 /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353689E52A1CBB55004CEE28 /* NotificationsView.swift */; };
 		3569E8462A1750680035FED4 /* SoilHumidityBottomDataCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3569E8452A1750680035FED4 /* SoilHumidityBottomDataCard.swift */; };
 		3569E8482A1751890035FED4 /* SoilHumidityBottomDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3569E8472A1751890035FED4 /* SoilHumidityBottomDataView.swift */; };
 /* End PBXBuildFile section */
@@ -52,7 +52,7 @@
 		3532F6BC2A14E0E900F950EB /* LiveDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveDataView.swift; sourceTree = "<group>"; };
 		3532F6BE2A14E11D00F950EB /* CreditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditView.swift; sourceTree = "<group>"; };
 		3532F6C02A14E14000F950EB /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
-		354189D92A15DB1900186F4D /* Notification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification.swift; sourceTree = "<group>"; };
+		353689E52A1CBB55004CEE28 /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
 		3569E8452A1750680035FED4 /* SoilHumidityBottomDataCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoilHumidityBottomDataCard.swift; sourceTree = "<group>"; };
 		3569E8472A1751890035FED4 /* SoilHumidityBottomDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoilHumidityBottomDataView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -94,7 +94,7 @@
 				3532F6C02A14E14000F950EB /* AboutView.swift */,
 				3532F6BC2A14E0E900F950EB /* LiveDataView.swift */,
 				3532F6BE2A14E11D00F950EB /* CreditView.swift */,
-				354189D92A15DB1900186F4D /* Notification.swift */,
+				353689E52A1CBB55004CEE28 /* NotificationsView.swift */,
 				3532F6A92A14DDBE00F950EB /* Data Cards */,
 				3532F6AE2A14DEA300F950EB /* Data Views */,
 				3532F69F2A14DDB700F950EB /* Assets.xcassets */,
@@ -218,10 +218,10 @@
 				3532F6C12A14E14000F950EB /* AboutView.swift in Sources */,
 				3532F6AD2A14DE1B00F950EB /* AirTemperatureDataCard.swift in Sources */,
 				3532F6B32A14DF3A00F950EB /* AirHumidityDataView.swift in Sources */,
+				353689E62A1CBB55004CEE28 /* NotificationsView.swift in Sources */,
 				3532F6AB2A14DDD600F950EB /* SoilHumidityTopDataCard.swift in Sources */,
 				3532F6BB2A14E09100F950EB /* AirTemperatureDataView.swift in Sources */,
 				3532F6B02A14DEBB00F950EB /* SoilHumidityTopDataView.swift in Sources */,
-				354189DA2A15DB1900186F4D /* Notification.swift in Sources */,
 				3569E8482A1751890035FED4 /* SoilHumidityBottomDataView.swift in Sources */,
 				3532F6BF2A14E11D00F950EB /* CreditView.swift in Sources */,
 				3532F6B52A14DFB300F950EB /* LumensDataCard.swift in Sources */,
