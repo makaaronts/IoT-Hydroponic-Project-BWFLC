@@ -34,11 +34,10 @@ struct NotificationsView: View {
             print(error? .localizedDescription ?? "")
         }
         let content = UNMutableNotificationContent()
-            content.title = "Hello!"
-            content.subtitle = "Check out the daily data summary."
-            content.body = "Check out the daily live data summary in our app"
+            content.title = "Hey User! 👋"
+            content.body = "Check out the live data in our app"
             content.sound = UNNotificationSound.default
-        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 60, repeats: true)
+        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 3600, repeats: true)
         let request = UNNotificationRequest(identifier: "Water Agri BWFLC Notifications", content: content, trigger: trigger)
         UNUserNotificationCenter.current().add(request)
         UNUserNotificationCenter.current().removeAllPendingNotificationRequests()
