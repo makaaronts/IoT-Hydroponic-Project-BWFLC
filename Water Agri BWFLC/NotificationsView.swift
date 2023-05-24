@@ -12,8 +12,13 @@ struct NotificationsView: View {
     var body: some View {
         NavigationStack {
             VStack(alignment: .center) {
-                Button("Enable Notifications") {
+                Button {
                     enableNotification()
+                } label: {
+                    HStack {
+                        Image(systemName: "bell.badge.fill")
+                        Text("Enable Notifications")
+                    }
                 }
                 .buttonStyle(.borderedProminent)
                 List {
@@ -34,7 +39,7 @@ struct NotificationsView: View {
             print(error? .localizedDescription ?? "")
         }
         let content = UNMutableNotificationContent()
-            content.title = "Hey User! 👋"
+            content.title = "Hey! 👋"
             content.body = "Remember to check out the live data in our app."
             content.sound = UNNotificationSound.default
         let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 3600, repeats: true)

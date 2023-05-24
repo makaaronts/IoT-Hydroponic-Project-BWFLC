@@ -34,7 +34,7 @@ struct SettingsView: View {
                 }
                 NavigationLink(destination: NotificationsView()) {
                     HStack {
-                        Image(systemName: "bell.fill")
+                        Image(systemName: "bell.badge.fill")
                             .foregroundColor(.blue)
                         Text("Notifications")
                     }

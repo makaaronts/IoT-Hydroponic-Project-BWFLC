@@ -14,6 +14,10 @@ struct ContentView: View {
                 .tabItem {
                     Label("Live Data", systemImage: "chart.xyaxis.line")
                 }
+            DataSummaryView()
+                .tabItem {
+                    Label("Data Summary", systemImage: "doc.text.fill")
+                }
             SettingsView()
                 .tabItem {
                     Label("Settings", systemImage: "gear")
