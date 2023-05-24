@@ -19,7 +19,7 @@ struct WaterDepthDataCard: View {
                         .fontWeight(.bold)
                         .foregroundColor(.blue)
                     HStack {
-                        Image(systemName: "humidity.fill")
+                        Image(systemName: "water.waves")
                             .font(.system(size: 30))
                             .foregroundColor(.blue)
                         Text("Water Depth")
