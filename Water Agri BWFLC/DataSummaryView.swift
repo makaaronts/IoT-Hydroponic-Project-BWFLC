@@ -12,7 +12,7 @@ struct DataSummaryView: View {
         NavigationStack {
             ScrollView {
                 VStack(alignment:. center, spacing: 15) {
-                    DateAndTimeCard()
+                    DateCard()
                     SoilHumidity()
                     AirHumidity()
                     AirTemperature()

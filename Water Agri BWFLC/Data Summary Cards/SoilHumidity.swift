@@ -22,8 +22,9 @@ struct SoilHumidity: View {
                 Text("Data Range")
                     .font(.title2)
                     .fontWeight(.bold)
-                ForEach(dataSources, id: \.entryId) { feed in
-                    Text("\(feed.field2)% - \(feed.field3)%")
+                
+                ForEach(dataSources, id: \.createdAt) { feed in
+                    Text("0% - \(feed.field3)%")
                         .font(.title2)
                         .fontWeight(.bold)
                 }

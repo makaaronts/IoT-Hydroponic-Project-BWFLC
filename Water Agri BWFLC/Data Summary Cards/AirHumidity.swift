@@ -24,8 +24,8 @@ struct AirHumidity: View {
                     .font(.title2)
                     .fontWeight(.bold)
                 
-                ForEach(dataSources, id: \.entryId) { feed in
-                    Text("\(feed.field5)% - \(feed.field5)%")
+                ForEach(dataSources, id: \.createdAt) { feed in
+                    Text("0% - \(feed.field5)%")
                         .font(.title2)
                         .fontWeight(.bold)
                 }

@@ -23,8 +23,8 @@ struct AirTemperature: View {
                 Text("Data Range")
                     .font(.title2)
                     .fontWeight(.bold)
-                ForEach(dataSources, id: \.entryId) { feed in
-                    Text("\(feed.field4)ºC - \(feed.field4)ºC")
+                ForEach(dataSources, id: \.createdAt) { feed in
+                    Text("0ºC - \(feed.field4)ºC")
                         .font(.title2)
                         .fontWeight(.bold)
                 }

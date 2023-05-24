@@ -22,8 +22,8 @@ struct Lumens: View {
                 Text("Data Range")
                     .font(.title2)
                     .fontWeight(.bold)
-                ForEach(dataSources, id: \.entryId) { feed in
-                    Text("\(feed.field6) SI - \(feed.field6) SI")
+                ForEach(dataSources, id: \.createdAt) { feed in
+                    Text("0 SI - \(feed.field6) SI")
                         .font(.title2)
                         .fontWeight(.bold)
                 }

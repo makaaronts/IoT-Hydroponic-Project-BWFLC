@@ -32,6 +32,7 @@
 		353339E52A1DF497009A371C /* AirTemperature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353339E42A1DF497009A371C /* AirTemperature.swift */; };
 		353339E72A1DF780009A371C /* Lumens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353339E62A1DF780009A371C /* Lumens.swift */; };
 		353689E62A1CBB55004CEE28 /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353689E52A1CBB55004CEE28 /* NotificationsView.swift */; };
+		3546284A2A1E1D5100C3D830 /* DateCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354628492A1E1D5100C3D830 /* DateCard.swift */; };
 		3569E8462A1750680035FED4 /* SoilHumidityBottomDataCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3569E8452A1750680035FED4 /* SoilHumidityBottomDataCard.swift */; };
 		3569E8482A1751890035FED4 /* SoilHumidityBottomDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3569E8472A1751890035FED4 /* SoilHumidityBottomDataView.swift */; };
 		35E6DCFE2A1DD69200ED8576 /* DataSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35E6DCFD2A1DD69200ED8576 /* DataSummaryView.swift */; };
@@ -64,6 +65,7 @@
 		353339E42A1DF497009A371C /* AirTemperature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirTemperature.swift; sourceTree = "<group>"; };
 		353339E62A1DF780009A371C /* Lumens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lumens.swift; sourceTree = "<group>"; };
 		353689E52A1CBB55004CEE28 /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
+		354628492A1E1D5100C3D830 /* DateCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateCard.swift; sourceTree = "<group>"; };
 		3569E8452A1750680035FED4 /* SoilHumidityBottomDataCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoilHumidityBottomDataCard.swift; sourceTree = "<group>"; };
 		3569E8472A1751890035FED4 /* SoilHumidityBottomDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoilHumidityBottomDataView.swift; sourceTree = "<group>"; };
 		35E6DCFD2A1DD69200ED8576 /* DataSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSummaryView.swift; sourceTree = "<group>"; };
@@ -110,7 +112,7 @@
 				353689E52A1CBB55004CEE28 /* NotificationsView.swift */,
 				3532F6A92A14DDBE00F950EB /* Data Cards */,
 				3532F6AE2A14DEA300F950EB /* Data Views */,
-				35E6DCFF2A1DD6BB00ED8576 /* Date & Time Cards */,
+				35E6DCFF2A1DD6BB00ED8576 /* Date & Time Card */,
 				35E6DD042A1DDCCF00ED8576 /* Data Summary Cards */,
 				3532F69F2A14DDB700F950EB /* Assets.xcassets */,
 				3532F6A12A14DDB700F950EB /* Preview Content */,
@@ -152,12 +154,13 @@
 			path = "Data Views";
 			sourceTree = "<group>";
 		};
-		35E6DCFF2A1DD6BB00ED8576 /* Date & Time Cards */ = {
+		35E6DCFF2A1DD6BB00ED8576 /* Date & Time Card */ = {
 			isa = PBXGroup;
 			children = (
 				353339E22A1DEED4009A371C /* DateAndTimeCard.swift */,
+				354628492A1E1D5100C3D830 /* DateCard.swift */,
 			);
-			path = "Date & Time Cards";
+			path = "Date & Time Card";
 			sourceTree = "<group>";
 		};
 		35E6DD042A1DDCCF00ED8576 /* Data Summary Cards */ = {
@@ -244,6 +247,7 @@
 				353339E32A1DEED4009A371C /* DateAndTimeCard.swift in Sources */,
 				351BF20E2A1663960006B92E /* SettingsView.swift in Sources */,
 				3532F69E2A14DDB700F950EB /* ContentView.swift in Sources */,
+				3546284A2A1E1D5100C3D830 /* DateCard.swift in Sources */,
 				3532F6B92A14E06300F950EB /* LumensDataView.swift in Sources */,
 				3532F6B72A14E01300F950EB /* AirHumidityDataCard.swift in Sources */,
 				351BF2102A1664780006B92E /* AppInfoView.swift in Sources */,
