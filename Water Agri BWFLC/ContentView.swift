@@ -16,7 +16,7 @@ struct ContentView: View {
                 }
             DataSummaryView()
                 .tabItem {
-                    Label("Data Summary", systemImage: "doc.text.fill")
+                    Label("Data Summary", systemImage: "doc.text.image.fill")
                 }
             SettingsView()
                 .tabItem {

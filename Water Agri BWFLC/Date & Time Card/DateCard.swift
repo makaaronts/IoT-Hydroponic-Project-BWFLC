@@ -17,12 +17,6 @@ struct DateCard: View {
                 .fontWeight(.bold)
         }
         .foregroundColor(.blue)
-        .layoutPriority(100)
-        .frame(width: 350, height: 100)
-        .cornerRadius(20)
-        .overlay(RoundedRectangle(cornerRadius: 20)
-            .stroke(Color(.sRGB, red: 150/255, green: 150/255, blue: 150/255, opacity: 0.5), lineWidth: 5)
-        )
         .padding(.all, 10)
     }
 }

@@ -11,7 +11,7 @@ struct LiveDataView: View {
     var body: some View {
         NavigationStack {
             ScrollView {
-                VStack(alignment: .center, spacing: 15) {
+                VStack(alignment: .leading, spacing: 10) {
                     DateAndTimeCard()
                     HStack(spacing: 10) {
                         SoilHumidityTopDataCard()

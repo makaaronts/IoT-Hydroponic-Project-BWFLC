@@ -11,12 +11,15 @@ struct DataSummaryView: View {
     var body: some View {
         NavigationStack {
             ScrollView {
-                VStack(alignment:. center, spacing: 15) {
+                VStack(alignment: .leading, spacing: 10) {
                     DateCard()
-                    SoilHumidity()
-                    AirHumidity()
-                    AirTemperature()
-                    Lumens()
+                    VStack(alignment:. center, spacing: 15) {
+                        SoilHumidity()
+                        AirHumidity()
+                        AirTemperature()
+                        Lumens()
+                        WaterDepth()
+                    }
                 }
                 .navigationTitle("Data Summary")
             }
