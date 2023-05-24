@@ -24,7 +24,7 @@ struct SoilHumidity: View {
                     .fontWeight(.bold)
                 
                 ForEach(dataSources, id: \.createdAt) { feed in
-                    Text("0% - \(feed.field3)%")
+                    Text("\(feed.field2)% - \(feed.field3)%")
                         .font(.title2)
                         .fontWeight(.bold)
                 }
