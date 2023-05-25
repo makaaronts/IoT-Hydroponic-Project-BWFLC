@@ -23,7 +23,7 @@ struct NotificationsView: View {
                 .buttonStyle(.borderedProminent)
                 List {
                     Section(header: Text("About Enable Notifications")) {
-                        Text("After enable notifications in this app, this app will send you a notification of live data.")
+                        Text("After enable notifications in this app, this app will send you a notification of checking data summary.")
                     }
                 }
             }
