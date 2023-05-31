@@ -11,7 +11,6 @@
 		05D1CE242A1778400079EB1B /* WaterDepthDataCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D1CE232A1778400079EB1B /* WaterDepthDataCard.swift */; };
 		351BF20E2A1663960006B92E /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351BF20D2A1663960006B92E /* SettingsView.swift */; };
 		351BF2102A1664780006B92E /* AppInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351BF20F2A1664780006B92E /* AppInfoView.swift */; };
-		352721A92A1E5618001AD89A /* WaterDepth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 352721A82A1E5618001AD89A /* WaterDepth.swift */; };
 		3532F69C2A14DDB700F950EB /* Water_Agri_BWFLCApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532F69B2A14DDB700F950EB /* Water_Agri_BWFLCApp.swift */; };
 		3532F69E2A14DDB700F950EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532F69D2A14DDB700F950EB /* ContentView.swift */; };
 		3532F6A02A14DDB700F950EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3532F69F2A14DDB700F950EB /* Assets.xcassets */; };
@@ -27,16 +26,38 @@
 		3532F6BD2A14E0E900F950EB /* LiveDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532F6BC2A14E0E900F950EB /* LiveDataView.swift */; };
 		3532F6BF2A14E11D00F950EB /* CreditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532F6BE2A14E11D00F950EB /* CreditView.swift */; };
 		3532F6C12A14E14000F950EB /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532F6C02A14E14000F950EB /* AboutView.swift */; };
-		353339DF2A1DE4EC009A371C /* SoilHumidity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353339DE2A1DE4EC009A371C /* SoilHumidity.swift */; };
-		353339E12A1DEA70009A371C /* AirHumidity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353339E02A1DEA70009A371C /* AirHumidity.swift */; };
 		353339E32A1DEED4009A371C /* DateAndTimeCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353339E22A1DEED4009A371C /* DateAndTimeCard.swift */; };
-		353339E52A1DF497009A371C /* AirTemperature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353339E42A1DF497009A371C /* AirTemperature.swift */; };
-		353339E72A1DF780009A371C /* Lumens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353339E62A1DF780009A371C /* Lumens.swift */; };
 		353689E62A1CBB55004CEE28 /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353689E52A1CBB55004CEE28 /* NotificationsView.swift */; };
 		3546284A2A1E1D5100C3D830 /* DateCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354628492A1E1D5100C3D830 /* DateCard.swift */; };
 		3569E8462A1750680035FED4 /* SoilHumidityBottomDataCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3569E8452A1750680035FED4 /* SoilHumidityBottomDataCard.swift */; };
 		3569E8482A1751890035FED4 /* SoilHumidityBottomDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3569E8472A1751890035FED4 /* SoilHumidityBottomDataView.swift */; };
-		35E6DCFE2A1DD69200ED8576 /* DataSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35E6DCFD2A1DD69200ED8576 /* DataSummaryView.swift */; };
+		358B2DFE2A23827800A6EDF4 /* WanderingJewCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2DFD2A23827800A6EDF4 /* WanderingJewCard.swift */; };
+		358B2E002A23831C00A6EDF4 /* EnglishIvyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2DFF2A23831C00A6EDF4 /* EnglishIvyCard.swift */; };
+		358B2E022A23835200A6EDF4 /* PothosCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E012A23835200A6EDF4 /* PothosCard.swift */; };
+		358B2E042A23838000A6EDF4 /* ColeusCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E032A23838000A6EDF4 /* ColeusCard.swift */; };
+		358B2E062A2383AE00A6EDF4 /* LuckyBambooCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E052A2383AE00A6EDF4 /* LuckyBambooCard.swift */; };
+		358B2E082A23840100A6EDF4 /* GeraniumCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E072A23840100A6EDF4 /* GeraniumCard.swift */; };
+		358B2E0B2A2384B000A6EDF4 /* WanderingJewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E0A2A2384B000A6EDF4 /* WanderingJewView.swift */; };
+		358B2E0D2A23866B00A6EDF4 /* EnglishIvyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E0C2A23866B00A6EDF4 /* EnglishIvyView.swift */; };
+		358B2E0F2A2387CE00A6EDF4 /* PothosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E0E2A2387CE00A6EDF4 /* PothosView.swift */; };
+		358B2E112A23887400A6EDF4 /* ColeusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E102A23887400A6EDF4 /* ColeusView.swift */; };
+		358B2E132A23894300A6EDF4 /* LuckyBambooView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E122A23894300A6EDF4 /* LuckyBambooView.swift */; };
+		358B2E152A238A5300A6EDF4 /* GeraniumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E142A238A5300A6EDF4 /* GeraniumView.swift */; };
+		358B2E172A238BD900A6EDF4 /* HydroponicsTipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E162A238BD900A6EDF4 /* HydroponicsTipsView.swift */; };
+		358B2E192A238D7B00A6EDF4 /* InfoSourcesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358B2E182A238D7B00A6EDF4 /* InfoSourcesView.swift */; };
+		35C868A72A23299200D64474 /* HydroponicsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868A62A23299200D64474 /* HydroponicsView.swift */; };
+		35C868AB2A232EB400D64474 /* SpinachCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868AA2A232EB400D64474 /* SpinachCard.swift */; };
+		35C868AD2A2334D600D64474 /* LettuceCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868AC2A2334D600D64474 /* LettuceCard.swift */; };
+		35C868AF2A23399D00D64474 /* ChivesCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868AE2A23399D00D64474 /* ChivesCard.swift */; };
+		35C868B12A233B5800D64474 /* BasilCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868B02A233B5800D64474 /* BasilCard.swift */; };
+		35C868B32A233C1100D64474 /* CorianderCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868B22A233C1100D64474 /* CorianderCard.swift */; };
+		35C868B52A233C7F00D64474 /* KaleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868B42A233C7F00D64474 /* KaleCard.swift */; };
+		35C868B72A233DB900D64474 /* SpinachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868B62A233DB900D64474 /* SpinachView.swift */; };
+		35C868B92A23437F00D64474 /* LettuceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868B82A23437F00D64474 /* LettuceView.swift */; };
+		35C868BB2A2347AC00D64474 /* ChivesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868BA2A2347AC00D64474 /* ChivesView.swift */; };
+		35C868BD2A234A7D00D64474 /* BasilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868BC2A234A7D00D64474 /* BasilView.swift */; };
+		35C868BF2A234BED00D64474 /* CorianderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868BE2A234BED00D64474 /* CorianderView.swift */; };
+		35C868C12A234D7600D64474 /* KaleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C868C02A234D7600D64474 /* KaleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,7 +65,6 @@
 		05D1CE232A1778400079EB1B /* WaterDepthDataCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterDepthDataCard.swift; sourceTree = "<group>"; };
 		351BF20D2A1663960006B92E /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		351BF20F2A1664780006B92E /* AppInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppInfoView.swift; sourceTree = "<group>"; };
-		352721A82A1E5618001AD89A /* WaterDepth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterDepth.swift; sourceTree = "<group>"; };
 		3532F6982A14DDB700F950EB /* Water Agri BWFLC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Water Agri BWFLC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3532F69B2A14DDB700F950EB /* Water_Agri_BWFLCApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Water_Agri_BWFLCApp.swift; sourceTree = "<group>"; };
 		3532F69D2A14DDB700F950EB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,16 +81,38 @@
 		3532F6BC2A14E0E900F950EB /* LiveDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveDataView.swift; sourceTree = "<group>"; };
 		3532F6BE2A14E11D00F950EB /* CreditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditView.swift; sourceTree = "<group>"; };
 		3532F6C02A14E14000F950EB /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
-		353339DE2A1DE4EC009A371C /* SoilHumidity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoilHumidity.swift; sourceTree = "<group>"; };
-		353339E02A1DEA70009A371C /* AirHumidity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirHumidity.swift; sourceTree = "<group>"; };
 		353339E22A1DEED4009A371C /* DateAndTimeCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateAndTimeCard.swift; sourceTree = "<group>"; };
-		353339E42A1DF497009A371C /* AirTemperature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirTemperature.swift; sourceTree = "<group>"; };
-		353339E62A1DF780009A371C /* Lumens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lumens.swift; sourceTree = "<group>"; };
 		353689E52A1CBB55004CEE28 /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
 		354628492A1E1D5100C3D830 /* DateCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateCard.swift; sourceTree = "<group>"; };
 		3569E8452A1750680035FED4 /* SoilHumidityBottomDataCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoilHumidityBottomDataCard.swift; sourceTree = "<group>"; };
 		3569E8472A1751890035FED4 /* SoilHumidityBottomDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoilHumidityBottomDataView.swift; sourceTree = "<group>"; };
-		35E6DCFD2A1DD69200ED8576 /* DataSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSummaryView.swift; sourceTree = "<group>"; };
+		358B2DFD2A23827800A6EDF4 /* WanderingJewCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WanderingJewCard.swift; sourceTree = "<group>"; };
+		358B2DFF2A23831C00A6EDF4 /* EnglishIvyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishIvyCard.swift; sourceTree = "<group>"; };
+		358B2E012A23835200A6EDF4 /* PothosCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PothosCard.swift; sourceTree = "<group>"; };
+		358B2E032A23838000A6EDF4 /* ColeusCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColeusCard.swift; sourceTree = "<group>"; };
+		358B2E052A2383AE00A6EDF4 /* LuckyBambooCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuckyBambooCard.swift; sourceTree = "<group>"; };
+		358B2E072A23840100A6EDF4 /* GeraniumCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeraniumCard.swift; sourceTree = "<group>"; };
+		358B2E0A2A2384B000A6EDF4 /* WanderingJewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WanderingJewView.swift; sourceTree = "<group>"; };
+		358B2E0C2A23866B00A6EDF4 /* EnglishIvyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishIvyView.swift; sourceTree = "<group>"; };
+		358B2E0E2A2387CE00A6EDF4 /* PothosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PothosView.swift; sourceTree = "<group>"; };
+		358B2E102A23887400A6EDF4 /* ColeusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColeusView.swift; sourceTree = "<group>"; };
+		358B2E122A23894300A6EDF4 /* LuckyBambooView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuckyBambooView.swift; sourceTree = "<group>"; };
+		358B2E142A238A5300A6EDF4 /* GeraniumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeraniumView.swift; sourceTree = "<group>"; };
+		358B2E162A238BD900A6EDF4 /* HydroponicsTipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HydroponicsTipsView.swift; sourceTree = "<group>"; };
+		358B2E182A238D7B00A6EDF4 /* InfoSourcesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoSourcesView.swift; sourceTree = "<group>"; };
+		35C868A62A23299200D64474 /* HydroponicsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HydroponicsView.swift; sourceTree = "<group>"; };
+		35C868AA2A232EB400D64474 /* SpinachCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinachCard.swift; sourceTree = "<group>"; };
+		35C868AC2A2334D600D64474 /* LettuceCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LettuceCard.swift; sourceTree = "<group>"; };
+		35C868AE2A23399D00D64474 /* ChivesCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChivesCard.swift; sourceTree = "<group>"; };
+		35C868B02A233B5800D64474 /* BasilCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasilCard.swift; sourceTree = "<group>"; };
+		35C868B22A233C1100D64474 /* CorianderCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorianderCard.swift; sourceTree = "<group>"; };
+		35C868B42A233C7F00D64474 /* KaleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaleCard.swift; sourceTree = "<group>"; };
+		35C868B62A233DB900D64474 /* SpinachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinachView.swift; sourceTree = "<group>"; };
+		35C868B82A23437F00D64474 /* LettuceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LettuceView.swift; sourceTree = "<group>"; };
+		35C868BA2A2347AC00D64474 /* ChivesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChivesView.swift; sourceTree = "<group>"; };
+		35C868BC2A234A7D00D64474 /* BasilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasilView.swift; sourceTree = "<group>"; };
+		35C868BE2A234BED00D64474 /* CorianderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorianderView.swift; sourceTree = "<group>"; };
+		35C868C02A234D7600D64474 /* KaleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,17 +147,22 @@
 			children = (
 				3532F69B2A14DDB700F950EB /* Water_Agri_BWFLCApp.swift */,
 				3532F69D2A14DDB700F950EB /* ContentView.swift */,
-				35E6DCFD2A1DD69200ED8576 /* DataSummaryView.swift */,
+				35C868A62A23299200D64474 /* HydroponicsView.swift */,
+				358B2E162A238BD900A6EDF4 /* HydroponicsTipsView.swift */,
 				351BF20D2A1663960006B92E /* SettingsView.swift */,
 				351BF20F2A1664780006B92E /* AppInfoView.swift */,
 				3532F6C02A14E14000F950EB /* AboutView.swift */,
 				3532F6BC2A14E0E900F950EB /* LiveDataView.swift */,
 				3532F6BE2A14E11D00F950EB /* CreditView.swift */,
+				358B2E182A238D7B00A6EDF4 /* InfoSourcesView.swift */,
 				353689E52A1CBB55004CEE28 /* NotificationsView.swift */,
 				3532F6A92A14DDBE00F950EB /* Data Cards */,
 				3532F6AE2A14DEA300F950EB /* Data Views */,
 				35E6DCFF2A1DD6BB00ED8576 /* Date & Time Card */,
-				35E6DD042A1DDCCF00ED8576 /* Data Summary Cards */,
+				35C868A92A232E9000D64474 /* Hydroponics Veggies Cards */,
+				35C868A82A232E6300D64474 /* Hydroponics Veggies Views */,
+				358B2DFC2A2381B900A6EDF4 /* Hydroponic Houseplant Cards */,
+				358B2E092A23849100A6EDF4 /* Hydroponic Houseplants Views */,
 				3532F69F2A14DDB700F950EB /* Assets.xcassets */,
 				3532F6A12A14DDB700F950EB /* Preview Content */,
 			);
@@ -156,6 +203,58 @@
 			path = "Data Views";
 			sourceTree = "<group>";
 		};
+		358B2DFC2A2381B900A6EDF4 /* Hydroponic Houseplant Cards */ = {
+			isa = PBXGroup;
+			children = (
+				358B2DFD2A23827800A6EDF4 /* WanderingJewCard.swift */,
+				358B2DFF2A23831C00A6EDF4 /* EnglishIvyCard.swift */,
+				358B2E012A23835200A6EDF4 /* PothosCard.swift */,
+				358B2E032A23838000A6EDF4 /* ColeusCard.swift */,
+				358B2E052A2383AE00A6EDF4 /* LuckyBambooCard.swift */,
+				358B2E072A23840100A6EDF4 /* GeraniumCard.swift */,
+			);
+			path = "Hydroponic Houseplant Cards";
+			sourceTree = "<group>";
+		};
+		358B2E092A23849100A6EDF4 /* Hydroponic Houseplants Views */ = {
+			isa = PBXGroup;
+			children = (
+				358B2E0A2A2384B000A6EDF4 /* WanderingJewView.swift */,
+				358B2E0C2A23866B00A6EDF4 /* EnglishIvyView.swift */,
+				358B2E0E2A2387CE00A6EDF4 /* PothosView.swift */,
+				358B2E102A23887400A6EDF4 /* ColeusView.swift */,
+				358B2E122A23894300A6EDF4 /* LuckyBambooView.swift */,
+				358B2E142A238A5300A6EDF4 /* GeraniumView.swift */,
+			);
+			path = "Hydroponic Houseplants Views";
+			sourceTree = "<group>";
+		};
+		35C868A82A232E6300D64474 /* Hydroponics Veggies Views */ = {
+			isa = PBXGroup;
+			children = (
+				35C868B62A233DB900D64474 /* SpinachView.swift */,
+				35C868B82A23437F00D64474 /* LettuceView.swift */,
+				35C868BA2A2347AC00D64474 /* ChivesView.swift */,
+				35C868BC2A234A7D00D64474 /* BasilView.swift */,
+				35C868BE2A234BED00D64474 /* CorianderView.swift */,
+				35C868C02A234D7600D64474 /* KaleView.swift */,
+			);
+			path = "Hydroponics Veggies Views";
+			sourceTree = "<group>";
+		};
+		35C868A92A232E9000D64474 /* Hydroponics Veggies Cards */ = {
+			isa = PBXGroup;
+			children = (
+				35C868AA2A232EB400D64474 /* SpinachCard.swift */,
+				35C868AC2A2334D600D64474 /* LettuceCard.swift */,
+				35C868AE2A23399D00D64474 /* ChivesCard.swift */,
+				35C868B02A233B5800D64474 /* BasilCard.swift */,
+				35C868B22A233C1100D64474 /* CorianderCard.swift */,
+				35C868B42A233C7F00D64474 /* KaleCard.swift */,
+			);
+			path = "Hydroponics Veggies Cards";
+			sourceTree = "<group>";
+		};
 		35E6DCFF2A1DD6BB00ED8576 /* Date & Time Card */ = {
 			isa = PBXGroup;
 			children = (
@@ -163,18 +262,6 @@
 				354628492A1E1D5100C3D830 /* DateCard.swift */,
 			);
 			path = "Date & Time Card";
-			sourceTree = "<group>";
-		};
-		35E6DD042A1DDCCF00ED8576 /* Data Summary Cards */ = {
-			isa = PBXGroup;
-			children = (
-				353339DE2A1DE4EC009A371C /* SoilHumidity.swift */,
-				353339E02A1DEA70009A371C /* AirHumidity.swift */,
-				353339E42A1DF497009A371C /* AirTemperature.swift */,
-				353339E62A1DF780009A371C /* Lumens.swift */,
-				352721A82A1E5618001AD89A /* WaterDepth.swift */,
-			);
-			path = "Data Summary Cards";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -248,33 +335,54 @@
 			buildActionMask = 2147483647;
 			files = (
 				353339E32A1DEED4009A371C /* DateAndTimeCard.swift in Sources */,
+				358B2E172A238BD900A6EDF4 /* HydroponicsTipsView.swift in Sources */,
+				358B2E152A238A5300A6EDF4 /* GeraniumView.swift in Sources */,
+				35C868AF2A23399D00D64474 /* ChivesCard.swift in Sources */,
+				358B2E062A2383AE00A6EDF4 /* LuckyBambooCard.swift in Sources */,
 				351BF20E2A1663960006B92E /* SettingsView.swift in Sources */,
 				3532F69E2A14DDB700F950EB /* ContentView.swift in Sources */,
-				352721A92A1E5618001AD89A /* WaterDepth.swift in Sources */,
+				35C868C12A234D7600D64474 /* KaleView.swift in Sources */,
+				358B2E002A23831C00A6EDF4 /* EnglishIvyCard.swift in Sources */,
 				3546284A2A1E1D5100C3D830 /* DateCard.swift in Sources */,
 				3532F6B92A14E06300F950EB /* LumensDataView.swift in Sources */,
+				35C868B12A233B5800D64474 /* BasilCard.swift in Sources */,
 				3532F6B72A14E01300F950EB /* AirHumidityDataCard.swift in Sources */,
+				35C868BB2A2347AC00D64474 /* ChivesView.swift in Sources */,
+				358B2E042A23838000A6EDF4 /* ColeusCard.swift in Sources */,
 				351BF2102A1664780006B92E /* AppInfoView.swift in Sources */,
+				35C868B52A233C7F00D64474 /* KaleCard.swift in Sources */,
+				35C868BD2A234A7D00D64474 /* BasilView.swift in Sources */,
 				3569E8462A1750680035FED4 /* SoilHumidityBottomDataCard.swift in Sources */,
 				3532F6BD2A14E0E900F950EB /* LiveDataView.swift in Sources */,
 				05D1CE242A1778400079EB1B /* WaterDepthDataCard.swift in Sources */,
-				353339DF2A1DE4EC009A371C /* SoilHumidity.swift in Sources */,
+				35C868A72A23299200D64474 /* HydroponicsView.swift in Sources */,
+				35C868AD2A2334D600D64474 /* LettuceCard.swift in Sources */,
 				3532F6C12A14E14000F950EB /* AboutView.swift in Sources */,
-				35E6DCFE2A1DD69200ED8576 /* DataSummaryView.swift in Sources */,
+				358B2E022A23835200A6EDF4 /* PothosCard.swift in Sources */,
+				358B2E132A23894300A6EDF4 /* LuckyBambooView.swift in Sources */,
+				358B2E0D2A23866B00A6EDF4 /* EnglishIvyView.swift in Sources */,
+				35C868AB2A232EB400D64474 /* SpinachCard.swift in Sources */,
+				358B2DFE2A23827800A6EDF4 /* WanderingJewCard.swift in Sources */,
+				35C868B72A233DB900D64474 /* SpinachView.swift in Sources */,
+				35C868B92A23437F00D64474 /* LettuceView.swift in Sources */,
 				3532F6AD2A14DE1B00F950EB /* AirTemperatureDataCard.swift in Sources */,
-				353339E72A1DF780009A371C /* Lumens.swift in Sources */,
 				3532F6B32A14DF3A00F950EB /* AirHumidityDataView.swift in Sources */,
+				358B2E192A238D7B00A6EDF4 /* InfoSourcesView.swift in Sources */,
 				353689E62A1CBB55004CEE28 /* NotificationsView.swift in Sources */,
-				353339E12A1DEA70009A371C /* AirHumidity.swift in Sources */,
+				358B2E0F2A2387CE00A6EDF4 /* PothosView.swift in Sources */,
 				3532F6AB2A14DDD600F950EB /* SoilHumidityTopDataCard.swift in Sources */,
 				3532F6BB2A14E09100F950EB /* AirTemperatureDataView.swift in Sources */,
 				3532F6B02A14DEBB00F950EB /* SoilHumidityTopDataView.swift in Sources */,
 				3569E8482A1751890035FED4 /* SoilHumidityBottomDataView.swift in Sources */,
+				358B2E112A23887400A6EDF4 /* ColeusView.swift in Sources */,
+				358B2E082A23840100A6EDF4 /* GeraniumCard.swift in Sources */,
+				358B2E0B2A2384B000A6EDF4 /* WanderingJewView.swift in Sources */,
+				35C868B32A233C1100D64474 /* CorianderCard.swift in Sources */,
 				3532F6BF2A14E11D00F950EB /* CreditView.swift in Sources */,
+				35C868BF2A234BED00D64474 /* CorianderView.swift in Sources */,
 				3532F6B52A14DFB300F950EB /* LumensDataCard.swift in Sources */,
 				3532F69C2A14DDB700F950EB /* Water_Agri_BWFLCApp.swift in Sources */,
 				05D1CE222A17780E0079EB1B /* WaterDepthDataView.swift in Sources */,
-				353339E52A1DF497009A371C /* AirTemperature.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -14,9 +14,13 @@ struct ContentView: View {
                 .tabItem {
                     Label("Live Data", systemImage: "chart.xyaxis.line")
                 }
-            DataSummaryView()
+            HydroponicsView()
                 .tabItem {
-                    Label("Data Summary", systemImage: "doc.text.image.fill")
+                    Label("Hydroponics Plants", systemImage: "leaf.fill")
+                }
+            HydroponicsTipsView()
+                .tabItem {
+                    Label("Hydroponics Tips", systemImage: "lightbulb.fill")
                 }
             SettingsView()
                 .tabItem {

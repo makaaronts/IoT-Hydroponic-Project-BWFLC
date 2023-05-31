@@ -15,7 +15,7 @@ struct SettingsView: View {
                     HStack {
                         Image(systemName: "info.circle.fill")
                             .foregroundColor(.blue)
-                        Text("About the App")
+                        Text("About the Project")
                     }
                 }
                 NavigationLink(destination: CreditView()) {
@@ -23,6 +23,13 @@ struct SettingsView: View {
                         Image(systemName: "star.fill")
                             .foregroundColor(.blue)
                         Text("Credits")
+                    }
+                }
+                NavigationLink(destination: InfoSourcesView()) {
+                    HStack {
+                        Image(systemName: "info.bubble.fill")
+                            .foregroundColor(.blue)
+                        Text("Information Sources")
                     }
                 }
                 NavigationLink(destination: AppInfoView()) {

@@ -33,8 +33,7 @@ struct SoilHumidityTopDataCard: View {
             .frame(width: 160, height: 160)
             .cornerRadius(20)
             .overlay(RoundedRectangle(cornerRadius: 20)
-                .stroke(Color(.sRGB, red: 150/255, green: 150/255, blue: 150/255, opacity: 0.5), lineWidth: 5)
-            )
+                .stroke(Color.blue, lineWidth: 5))
         }
         .onAppear {
             loadData()

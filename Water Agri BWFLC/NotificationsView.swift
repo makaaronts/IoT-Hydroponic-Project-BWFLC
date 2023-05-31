@@ -23,7 +23,7 @@ struct NotificationsView: View {
                 .buttonStyle(.borderedProminent)
                 List {
                     Section(header: Text("About Enable Notifications")) {
-                        Text("After enable notifications in this app, this app will send you a notification of checking data summary.")
+                        Text("After enable notifications in this app, this app will send you a notification of checking out the live data.")
                     }
                 }
             }
@@ -39,11 +39,11 @@ struct NotificationsView: View {
             print(error? .localizedDescription ?? "")
         }
         let content = UNMutableNotificationContent()
-            content.title = "Hey! 👋"
-            content.body = "Remember to check out the live data in our app."
+            content.title = "Water depth is too low"
+            content.body = "Make sure the water depth is enough high."
             content.sound = UNNotificationSound.default
-        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 3600, repeats: true)
-        let request = UNNotificationRequest(identifier: "Water Agri BWFLC Notifications", content: content, trigger: trigger)
+        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: (1*60), repeats: true)
+        let request = UNNotificationRequest(identifier: "Water Agri BWFLC", content: content, trigger: trigger)
         UNUserNotificationCenter.current().add(request)
         UNUserNotificationCenter.current().removeAllDeliveredNotifications()
     }

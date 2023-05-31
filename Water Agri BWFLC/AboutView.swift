@@ -20,10 +20,10 @@ struct AboutView: View {
                     Text("Water Agri BWFLC")
                 }
                 Section(header: Text("Project Description")) {
-                    Text("Record the data for the water algriculture in BWFLC")
+                    Text("Shows the data for the water algriculture in BWFLC")
                 }
             }
-            .navigationTitle("About the App")
+            .navigationTitle("About the Project")
         }
         .scrollDisabled(true)
         .scrollContentBackground(.hidden)
