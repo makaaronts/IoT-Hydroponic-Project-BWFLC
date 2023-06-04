@@ -1,2 +1,2 @@
-# Water-Agri-BWFLC
+# IoT-Hydroponic-Project-BWFLC
 App project for the water algriculture in BWFLC.
