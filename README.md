@@ -2,6 +2,7 @@
 Project Description: Shows and record the data of the hydroponic in BWFLC.
 
 Supervisor and Back-end Developer: Vincent, FENG Weiting
+
 Front-end Developer: Aaron Mak
 
 About the frontend:
