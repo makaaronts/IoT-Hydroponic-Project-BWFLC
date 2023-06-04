@@ -1,5 +1,5 @@
 # IoT-Hydroponic-Project-BWFLC
-Project Description: Shows and record the data of the hydroponic in BWFLC.
+Project Description: Shows and record the data of the hydroponic in BWFLC, Hong Kong.
 
 Supervisor and Back-end Developer: Vincent, FENG Weiting (Teacher)
 
