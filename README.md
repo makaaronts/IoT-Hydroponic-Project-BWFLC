@@ -1,6 +1,9 @@
 # IoT-Hydroponic-Project-BWFLC
 Project Description: Shows and record the data of the hydroponic in BWFLC.
 
+Supervisor and Back-end Developer: Vincent, FENG Weiting
+Front-end Developer: Aaron Mak
+
 About the frontend:
 - The app provides a view / a page to show all of the live data (e.g. soil humidity, air temperature, humidity etc).
 - Charts to show the live data and the trend of the data for the users.
