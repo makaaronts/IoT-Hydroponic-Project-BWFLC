@@ -1,5 +1,1626 @@
 {
   "sourceLanguage" : "en",
-  "strings" : {},
+  "strings" : {
+    "%" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%"
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "%@ m" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ m"
+          }
+        }
+      }
+    },
+    "%@ SI" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ SI"
+          }
+        }
+      }
+    },
+    "%@%%" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%"
+          }
+        }
+      }
+    },
+    "%@ºC" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ºC"
+          }
+        }
+      }
+    },
+    "1.0 - Features Updates & Major App Updates" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1.0 - "
+          }
+        }
+      }
+    },
+    "A regular plant care schedule will help you ensure your plants are growing properly. Hang up a whiteboard where you can see it with daily, weekly, and monthly hydroponic growing tasks." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一個常規的水耕植物護理時間表可以幫助你確認植物正在妥當生長。"
+          }
+        }
+      }
+    },
+    "About Enable Notifications" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於啟用程式通知"
+          }
+        }
+      }
+    },
+    "About the data" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於實時數據"
+          }
+        }
+      }
+    },
+    "About the Data" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於實時數據"
+          }
+        }
+      }
+    },
+    "About the Project" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於此計劃"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, Basil also called great basil, is a culinary herb of the family Lamiaceae (mints). It is a tender plant, and is used in cuisines worldwide." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，羅勒是唇形科（薄荷）的烹飪草本植物。 它是一種嫩植物，用於世界各地的美食中。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, chives is a species of flowering plant in the family Amaryllidaceae that produces edible leaves and flowers. Their close relatives include the common onions, garlic, shallot, leek, scallion and Chinese onion." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，細香蔥是石蒜科的一種開花植物，可產生可食用的葉子和花朵。 它們的近親包括普通洋蔥、大蒜、青蔥、韭菜、蔥和蔥。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, coleus is a genus of annual or perennial herbs or shrubs, sometimes succulent, sometimes with a fleshy or tuberous rootstock, found in the Afro-Eurasia tropics and subtropics." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，錦紫蘇是一年生或多年生草本或灌木的屬，有時是肉質的，有時具有肉質或塊莖狀根莖，發現於非洲-歐亞大陸熱帶和亞熱帶地區。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, coriander is also known as cilantro, is an annual herb in the family Apiaceae. All parts of the plant are edible, but the fresh leaves and the dried seeds are the parts most traditionally used in cooking." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，芫荽是繖形科一年生草本植物。 植物的所有部分都是可食用的，但新鮮的葉子和乾燥的種子是傳統上用於烹飪的部分。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, English Ivy is a species of flowering plant of the ivy genus in the family Araliaceae, native to most of Europe and western Asia. A rampant, clinging evergreen vine, it is a familiar sight in gardens, waste spaces, and wild areas, where it grows on walls, fences, tree trunks, etc. across its native and introduced habitats. As a result of its hardy nature, and its tendency to grow readily without human assistance." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，常春藤是五加科常春藤屬的一種開花植物，原產於歐洲大部分地區和西亞。 它是一種猖獗、黏性的常綠藤本植物，在花園、荒地和野生地區很常見，它生長在原生和引進棲息地的牆壁、柵欄、樹幹等處。 由於其耐寒的性質，並且無需人工幫助即可輕鬆生長。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, kale, or we called it 'leaf cabbage', belongs to a group of cabbage cultivars grown for their edible leaves, although some are used as ornamentals. Kale plants have green or purple leaves, and the central leaves do not form a head (as with headed cabbage)." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，羽衣甘藍屬於一組為其可食用葉子而種植的生菜品種，儘管有些被用作觀賞植物。 羽衣甘藍植物有綠色或紫色的葉子，中央的葉子不形成頭（與帶頭生菜一樣）。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, lettuce is most often grown as a leaf vegetable, but sometimes for its stem and seeds. One variety, celtuce, is grown for its stems, which are eaten either raw or cooked. In addition to its main use as a leafy green, it has also gathered religious and medicinal significance over centuries of human consumption. " : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，生菜最常作為葉菜種植，但有時也因其莖和種子而種植。 其中一種品種是芹菜，它是為其莖而種植的，可以生吃或煮熟。 除了作為綠葉蔬菜的主要用途外，幾個世紀以來，它還具有宗教和藥用意義。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, Lucky Bamboo is a species of flowering plant in the family Asparagaceae, native to Central Africa. It was named after the German–English gardener Henry Frederick Conrad Sander (1847–1920). The plant is commonly marketed as 'lucky bamboo'." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，富貴竹是天門冬科的一種開花植物，原產於中非。 它以園丁亨利·弗雷德里克·康拉德·桑德（Henry Frederick Conrad Sander，1847-1920 年）的名字命名。 這種植物通常被稱為「幸運竹」。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, Pothos is a genus of flowering plants in the family Araceae (tribe Potheae). It is native to China, the Indian Subcontinent, Australia, New Guinea, Southeast Asia, and various islands of the Pacific and Indian Oceans." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，石柑屬是天南星科（Potheae 部落）中的一個開花植物屬。 它原產於中國、印度次大陸、澳洲、紐幾內亞、東南亞以及太平洋和印度洋的各個島嶼。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, spinach is a leafy green flowering plant native to central and western Asia. Its leaves are a common edible vegetable consumed either fresh, or after storage using preservation techniques by canning, freezing, or dehydration. It may be eaten cooked or raw, and the taste differs considerably, the high oxalate content may be reduced by steaming." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，菠菜是一種綠葉開花植物，原產於中亞和西亞。 它的葉子是一種常見的食用蔬菜，可以新鮮食用，也可以使用罐裝、冷凍或脫水等保存技術儲存後食用。 可熟食或生食，味道差異很大，蒸煮可降低高草酸含量。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, the flowers of Geranium are typically five-petaled and white to purple. The leaves are palmate divided into narrow, pointed segments. They are found throughout the temperate regions of the world and the mountains of the tropics, with the greatest diversity in the eastern part of the Mediterranean region." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，洋葵的花朵通常為五瓣，白色至紫色。 葉子呈掌狀，分為窄而尖的部分。 它們遍布世界溫帶地區和熱帶山區，其中以地中海東部地區的多樣性最為豐富。"
+          }
+        }
+      }
+    },
+    "According to Wikipedia, Wandering Jew has attractive zebra-patterned leaves, the upper surface showing purple new growth and green older growth parallel to the central axis, as well as two broad silver-colored stripes on the outer edges, with the lower leaf surface presenting a deep uniform magenta. The leaves are bluish green and usually have two longitudinal stripes that are silvery on the surface and purple on the underside. The leaf sheaths are thin and translucent, 8 to 12 mm long and 5 to 8 mm wide, at the mouth they are long, otherwise glabrous or slightly hairy." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據維基百科，吊竹草有吸引人的斑馬圖案葉子，上表面呈現平行於中軸的紫色新生長和綠色老生長，外緣有兩條寬闊的銀色條紋，下葉表面呈現深均勻的洋紅色。 葉子呈藍綠色，通常有兩條縱向條紋，表面呈銀色，背面呈紫色。 葉鞘薄而半透明，長8至12毫米，寬5至8毫米，口部較長，其他無毛或微有毛。"
+          }
+        }
+      }
+    },
+    "After enable notifications in this app, this app will send you a notification of checking out the live data." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一旦用戶啟用程式通知，程式會定期傳送通知給用戶去提醒他們查看實時數據。"
+          }
+        }
+      }
+    },
+    "Air Humidity" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空氣濕度"
+          }
+        }
+      }
+    },
+    "Air Temperature" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空氣溫度"
+          }
+        }
+      }
+    },
+    "Allium schoenoprasum" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allium schoenoprasum"
+          }
+        }
+      }
+    },
+    "Anonymous" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "佚名"
+          }
+        }
+      }
+    },
+    "App Icon Designer" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "程式圖示設計師"
+          }
+        }
+      }
+    },
+    "App Information" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "程式資訊"
+          }
+        }
+      }
+    },
+    "App Version & Description" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "程式版本及描述"
+          }
+        }
+      }
+    },
+    "Basil" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "羅勒"
+          }
+        }
+      }
+    },
+    "Bottom" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最低"
+          }
+        }
+      }
+    },
+    "Brassica oleracea" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brassica oleracea"
+          }
+        }
+      }
+    },
+    "Buddhist Wong Fung Ling College" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "佛教黃鳳翎中學"
+          }
+        }
+      }
+    },
+    "Carbonhydrates: 2.23 g (Sugars: 0.94 g & Dietary Fiber: 1.1 g)" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "碳水化合物：2.23克（糖：0.94克及膳食纖維：1.1克）"
+          }
+        }
+      }
+    },
+    "Carbonhydrates: 2.65 g (Dietary Fiber: 1.6 g)" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "碳水化合物：2.65克（膳食纖維：1.6克）"
+          }
+        }
+      }
+    },
+    "Carbonhydrates: 3.6 g (Sugars: 0.4 g & Dietary Fiber: 2.2 g)" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "碳水化合物：3.6克（糖：0.4克及膳食纖維：2.2克）"
+          }
+        }
+      }
+    },
+    "Carbonhydrates: 3.67 g (Sugars: 0.87 g & Dietary Fiber: 2.8 g)" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "碳水化合物：3.67克（糖：0.87克及膳食纖維：2.8克）"
+          }
+        }
+      }
+    },
+    "Carbonhydrates: 4.35 g (Sugars: 1.85 g & Dietary Fiber: 2.5 g)" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "碳水化合物：4.35克（糖：1.85克及膳食纖維：2.5克）"
+          }
+        }
+      }
+    },
+    "Carbonhydrates: 8.8 g (Sugars: 2.3 g & Dietary Fiber: 3.6 g)" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "碳水化合物：8.8克（糖：2.3克及膳食纖維：3.6克）"
+          }
+        }
+      }
+    },
+    "Chives" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "細香蔥"
+          }
+        }
+      }
+    },
+    "Choosing the best hydroponic growing method can be difficult when there are so many different options to pick from. Each method comes with its own benefits and difficulties." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "當有很多不同的選擇可供選擇時，選擇最佳的水耕種植方法可能會很困難。 每種方法都有其自身的優點和困難。"
+          }
+        }
+      }
+    },
+    "Coleus" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錦紫蘇"
+          }
+        }
+      }
+    },
+    "Coriander" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "芫荽"
+          }
+        }
+      }
+    },
+    "Coriandrum sativum" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coriandrum sativum"
+          }
+        }
+      }
+    },
+    "Credits" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鳴謝"
+          }
+        }
+      }
+    },
+    "Description" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "描述"
+          }
+        }
+      }
+    },
+    "Developer of This App" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "程式開發者"
+          }
+        }
+      }
+    },
+    "Dracaena sanderiana" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dracaena sanderiana"
+          }
+        }
+      }
+    },
+    "Each plant you decide to grow with hydroponics will be different from the next. Even one batch of tomatoes may behave differently than the next batch. Before you start growing, make sure to research each crop and learn about its pH, temperature, nutritional, and light preferences." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "決定透過水耕法種植的每種植物都會與下一種不同。 即使一批西紅柿的表現也可能與下一批不同。 在開始種植之前，請務必研究每種作物並了解其 pH 值、溫度、營養和光照偏好。"
+          }
+        }
+      }
+    },
+    "Enable Notifications" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用通知"
+          }
+        }
+      }
+    },
+    "Energy: 13 kcal" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能量：13千卡路里"
+          }
+        }
+      }
+    },
+    "Energy: 22 kcal" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能量：22千卡路里"
+          }
+        }
+      }
+    },
+    "Energy: 23 kcal" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能量：23千卡路里"
+          }
+        }
+      }
+    },
+    "Energy: 30 kcal" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能量：30千卡路里"
+          }
+        }
+      }
+    },
+    "Energy: 49 kcal" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能量：49千卡路里"
+          }
+        }
+      }
+    },
+    "English Ivy" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常春藤"
+          }
+        }
+      }
+    },
+    "Epipremnum aureum" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Epipremnum aureum"
+          }
+        }
+      }
+    },
+    "Fat: 0.4 g (Saturated Fat: 0.1 g)" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脂肪：0.4克（飽和脂肪：0.1克）"
+          }
+        }
+      }
+    },
+    "Fat: 0.9 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脂肪：0.9克"
+          }
+        }
+      }
+    },
+    "Fat: 0.22 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脂肪：0.22克"
+          }
+        }
+      }
+    },
+    "Fat: 0.52 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脂肪：0.52克"
+          }
+        }
+      }
+    },
+    "Fat: 0.64 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脂肪：0.64克"
+          }
+        }
+      }
+    },
+    "Fat: 0.73 g (Saturated Fat: 0.1 g)" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脂肪：0.73克（飽和脂肪：0.1克）"
+          }
+        }
+      }
+    },
+    "floraflex.com - Hydroponic tips" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "floraflex.com - 水耕種植貼士"
+          }
+        }
+      }
+    },
+    "Geranium" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "洋葵"
+          }
+        }
+      }
+    },
+    "Geranium viscosissimum" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geranium viscosissimum"
+          }
+        }
+      }
+    },
+    "Hedera helix" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hedera helix"
+          }
+        }
+      }
+    },
+    "Houseplants suitable for hydroponics" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "適合水耕種植的家居植物"
+          }
+        }
+      }
+    },
+    "Hydroponic Tips" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水耕貼士"
+          }
+        }
+      }
+    },
+    "Hydroponics Plants" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水耕植物"
+          }
+        }
+      }
+    },
+    "Hydroponics Tips" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水耕貼士"
+          }
+        }
+      }
+    },
+    "Information Sources" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "資訊來源"
+          }
+        }
+      }
+    },
+    "iOS 16.0" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 16.0"
+          }
+        }
+      }
+    },
+    "iPhone" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPhone"
+          }
+        }
+      }
+    },
+    "Iron: 1.5 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鐵質：1.5毫克"
+          }
+        }
+      }
+    },
+    "Iron: 1.6 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鐵質：1.6毫克"
+          }
+        }
+      }
+    },
+    "Iron: 1.24 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鐵質：1.24毫克"
+          }
+        }
+      }
+    },
+    "Iron: 1.77 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鐵質：1.77毫克"
+          }
+        }
+      }
+    },
+    "Iron: 2.7 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鐵質：2.7毫克"
+          }
+        }
+      }
+    },
+    "Iron: 3.17 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鐵質：3.17毫克"
+          }
+        }
+      }
+    },
+    "Kale" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "羽衣甘藍"
+          }
+        }
+      }
+    },
+    "Lactuca sativa" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lactuca sativa"
+          }
+        }
+      }
+    },
+    "Lettuce" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生菜"
+          }
+        }
+      }
+    },
+    "Live Data" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "實時數據"
+          }
+        }
+      }
+    },
+    "Lucky Bamboo" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "富貴竹"
+          }
+        }
+      }
+    },
+    "Lumens" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "流明"
+          }
+        }
+      }
+    },
+    "Magnesium: 13 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鎂：13毫克"
+          }
+        }
+      }
+    },
+    "Magnesium: 26 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鎂：26毫克"
+          }
+        }
+      }
+    },
+    "Magnesium: 42 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鎂：42毫克"
+          }
+        }
+      }
+    },
+    "Magnesium: 47 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鎂：47毫克"
+          }
+        }
+      }
+    },
+    "Magnesium: 64 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鎂：64毫克"
+          }
+        }
+      }
+    },
+    "Magnesium: 79 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鎂：79毫克"
+          }
+        }
+      }
+    },
+    "Minimum System Requirements" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最低系統要求"
+          }
+        }
+      }
+    },
+    "Mr To & Ms Cheung" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "陶文煒先生及張翠思小姐"
+          }
+        }
+      }
+    },
+    "Mr Vincent Fung" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "馮威霆先生"
+          }
+        }
+      }
+    },
+    "Mr Vincent Fung & Aaron Mak" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "馮威霆先生及麥峻誠"
+          }
+        }
+      }
+    },
+    "Notifications" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "程式通知"
+          }
+        }
+      }
+    },
+    "Nutrition Information - Per 100g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "營養資料 - 每100克"
+          }
+        }
+      }
+    },
+    "Nutrition Information (Raw) - Per 100g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "營養資訊（生食） - 每100克"
+          }
+        }
+      }
+    },
+    "ºC" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ºC"
+          }
+        }
+      }
+    },
+    "Ocimum basilicum" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocimum basilicum"
+          }
+        }
+      }
+    },
+    "Pelargonium" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelargonium"
+          }
+        }
+      }
+    },
+    "Pick the Right Hydroponic Method and Medium" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇合適的水耕種植方法"
+          }
+        }
+      }
+    },
+    "Plectranthus scutellarioides" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plectranthus scutellarioides"
+          }
+        }
+      }
+    },
+    "Potassium: 238 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鉀質：238毫克"
+          }
+        }
+      }
+    },
+    "Potassium: 295 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鉀質：295毫克"
+          }
+        }
+      }
+    },
+    "Potassium: 296 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鉀質：296毫克"
+          }
+        }
+      }
+    },
+    "Potassium: 491 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鉀質：491毫克"
+          }
+        }
+      }
+    },
+    "Potassium: 521 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鉀質：521毫克"
+          }
+        }
+      }
+    },
+    "Potassium: 558 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鉀質：558毫克"
+          }
+        }
+      }
+    },
+    "Pothos" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "石柑屬"
+          }
+        }
+      }
+    },
+    "Project Description" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計劃描述"
+          }
+        }
+      }
+    },
+    "Project Name" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計劃名稱"
+          }
+        }
+      }
+    },
+    "Protein: 1.35 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蛋白質：1.35克"
+          }
+        }
+      }
+    },
+    "Protein: 2.9 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蛋白質：2.9克"
+          }
+        }
+      }
+    },
+    "Protein: 2.13 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蛋白質：2.13克"
+          }
+        }
+      }
+    },
+    "Protein: 3.15 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蛋白質：3.15克"
+          }
+        }
+      }
+    },
+    "Protein: 3.27 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蛋白質：3.27克"
+          }
+        }
+      }
+    },
+    "Protein: 4.3 g" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蛋白質：4.3克"
+          }
+        }
+      }
+    },
+    "Research Before You Grow" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "種植前先搜集資料"
+          }
+        }
+      }
+    },
+    "Scientific Name" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "學名"
+          }
+        }
+      }
+    },
+    "Set a Schedule" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "訂立時間表"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
+        }
+      }
+    },
+    "Shows the data for the water algriculture in BWFLC" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示鳳翎水耕的數據"
+          }
+        }
+      }
+    },
+    "SI" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SI"
+          }
+        }
+      }
+    },
+    "Sodium: 3 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鈉：3毫克"
+          }
+        }
+      }
+    },
+    "Sodium: 4 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鈉：4毫克"
+          }
+        }
+      }
+    },
+    "Sodium: 5 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鈉：5毫克"
+          }
+        }
+      }
+    },
+    "Sodium: 38 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鈉：38毫克"
+          }
+        }
+      }
+    },
+    "Sodium: 46 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鈉：46毫克"
+          }
+        }
+      }
+    },
+    "Sodium: 79 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鈉：79毫克"
+          }
+        }
+      }
+    },
+    "Soil Humidity" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "泥土濕度"
+          }
+        }
+      }
+    },
+    "Special thanks to organisations / websites below for providing information" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特別鳴謝"
+          }
+        }
+      }
+    },
+    "Spinach" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "菠菜"
+          }
+        }
+      }
+    },
+    "Spinacia oleracea" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spinacia oleracea"
+          }
+        }
+      }
+    },
+    "Suitable Platforms" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "適合平台"
+          }
+        }
+      }
+    },
+    "Supervisor of This App" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "程式主管"
+          }
+        }
+      }
+    },
+    "Technical Support" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "技術支援"
+          }
+        }
+      }
+    },
+    "This data chart only shows real-time data." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此表只顯示實時數據"
+          }
+        }
+      }
+    },
+    "Time" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "時間"
+          }
+        }
+      }
+    },
+    "Top" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最高"
+          }
+        }
+      }
+    },
+    "Tradescantia zebrina" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tradescantia zebrina"
+          }
+        }
+      }
+    },
+    "Vegetables suitable for hydroponics" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "適合水耕種植的蔬菜"
+          }
+        }
+      }
+    },
+    "Vitamin C: 3.7 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素C：3.7毫克"
+          }
+        }
+      }
+    },
+    "Vitamin C: 18 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素C：18毫克"
+          }
+        }
+      }
+    },
+    "Vitamin C: 27 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素C：27毫克"
+          }
+        }
+      }
+    },
+    "Vitamin C: 28.1 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素C：28.1毫克"
+          }
+        }
+      }
+    },
+    "Vitamin C: 58.1 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素C：58.1毫克"
+          }
+        }
+      }
+    },
+    "Vitamin C: 120 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素C：120毫克"
+          }
+        }
+      }
+    },
+    "Vitamin E: 0.8 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素E：0.8毫克"
+          }
+        }
+      }
+    },
+    "Vitamin E: 0.18 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素E：0.18毫克"
+          }
+        }
+      }
+    },
+    "Vitamin E: 0.21 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素E：0.21毫克"
+          }
+        }
+      }
+    },
+    "Vitamin E: 1.54 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素E：1.54毫克"
+          }
+        }
+      }
+    },
+    "Vitamin E: 2 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素E：2毫克"
+          }
+        }
+      }
+    },
+    "Vitamin E: 2.5 mg" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維生素E：2.5毫克"
+          }
+        }
+      }
+    },
+    "Wandering Jew" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "吊竹草"
+          }
+        }
+      }
+    },
+    "Water Agri BWFLC" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鳳翎水耕"
+          }
+        }
+      }
+    },
+    "Water Depth" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水深"
+          }
+        }
+      }
+    },
+    "Wikipedia - All hydroponic plants information" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "維基百科 - 所有水耕植物資訊"
+          }
+        }
+      }
+    }
+  },
   "version" : "1.0"
 }

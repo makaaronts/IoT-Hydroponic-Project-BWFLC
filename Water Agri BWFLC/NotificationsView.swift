@@ -42,7 +42,10 @@ struct NotificationsView: View {
             content.title = "Water depth is too low"
             content.body = "Make sure the water depth is enough high."
             content.sound = UNNotificationSound.default
-        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: (1*60), repeats: true)
+        var datCom = DateComponents()
+        datCom.hour = 8
+        datCom.minute = 30
+        let trigger = UNCalendarNotificationTrigger(dateMatching: datCom, repeats: false)
         let request = UNNotificationRequest(identifier: "Water Agri BWFLC", content: content, trigger: trigger)
         UNUserNotificationCenter.current().add(request)
         UNUserNotificationCenter.current().removeAllDeliveredNotifications()
