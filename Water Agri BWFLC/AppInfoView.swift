@@ -11,11 +11,8 @@ struct AppInfoView: View {
     var body: some View {
         NavigationStack {
             List {
-                Section(header: Text("App Version & Description")) {
-                    Text("1.0 - Features Updates & Major App Updates")
-                }
                 Section(header: Text("Minimum System Requirements")) {
-                    Text("iOS 16.0")
+                    Text("iOS 17.1")
                 }
                 Section(header: Text("Suitable Platforms")) {
                     HStack {
