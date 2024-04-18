@@ -21,9 +21,10 @@ struct NotificationsView: View {
                     }
                 }
                 .buttonStyle(.borderedProminent)
-                List {
+                .cornerRadius(20)
+                    List {
                     Section(header: Text("About Enable Notifications")) {
-                        Text("After enable notifications in this app, this app will send you a notification of checking out the live data.")
+                        Text("After enable notifications in this app, this app will send you a notification of checking out the live data. You can change this settings on Settings later.")
                     }
                 }
             }
