@@ -9,21 +9,44 @@ import SwiftUI
 
 struct LiveDataView: View {
     var body: some View {
-        NavigationStack {
-            ScrollView {
+        if UIDevice.current.userInterfaceIdiom == .phone {
+            NavigationStack {
+                ScrollView {
+                    VStack(alignment: .leading, spacing: 10) {
+                        DateAndTimeCard()
+                        HStack(spacing: 10) {
+                            SoilHumidityTopDataCard(topDataCardWidth: 160, topDataCardHeight: 160)
+                            SoilHumidityBottomDataCard(bottomDataCardWidth: 160, bottomDataCardHeight: 160)
+                        }
+                        AirTemperatureDataCard()
+                        AirHumidityDataCard()
+                        LumensDataCard()
+                        WaterDepthDataCard()
+                    }
+                }
+                .navigationTitle("Live Data")
+            }
+        }
+        
+        if UIDevice.current.userInterfaceIdiom == .pad {
+            NavigationStack {
                 VStack(alignment: .leading, spacing: 10) {
                     DateAndTimeCard()
-                    HStack(spacing: 10) {
-                        SoilHumidityTopDataCard()
-                        SoilHumidityBottomDataCard()
-                    }
-                    AirTemperatureDataCard()
-                    AirHumidityDataCard()
-                    LumensDataCard()
-                    WaterDepthDataCard()
                 }
+                VStack {
+                    HStack(alignment: .center, spacing: 15) {
+                        SoilHumidityTopDataCard(topDataCardWidth: 350, topDataCardHeight: 160)
+                        SoilHumidityBottomDataCard(bottomDataCardWidth: 350, bottomDataCardHeight: 160)
+                        AirTemperatureDataCard()
+                    }
+                    HStack(alignment: .center, spacing: 15) {
+                        AirHumidityDataCard()
+                        LumensDataCard()
+                        WaterDepthDataCard()
+                    }
+                }
+                .navigationTitle("Live Data")
             }
-            .navigationTitle("Live Data")
         }
     }
 }

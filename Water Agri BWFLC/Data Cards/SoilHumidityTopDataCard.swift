@@ -9,6 +9,8 @@ import SwiftUI
 
 struct SoilHumidityTopDataCard: View {
     @State var data: [Feed] = []
+    @State var topDataCardWidth: CGFloat
+    @State var topDataCardHeight: CGFloat
     
     var body: some View {
         NavigationLink(destination: SoilHumidityTopDataView()) {
@@ -30,7 +32,7 @@ struct SoilHumidityTopDataCard: View {
                 }
             }
             .layoutPriority(100)
-            .frame(width: 160, height: 160)
+            .frame(width: topDataCardWidth, height: topDataCardHeight)
             .cornerRadius(20)
             .overlay(RoundedRectangle(cornerRadius: 20)
                 .stroke(Color.blue, lineWidth: 5))

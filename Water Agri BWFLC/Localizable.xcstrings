@@ -61,16 +61,6 @@
         }
       }
     },
-    "1.0 - Features Updates & Major App Updates" : {
-      "localizations" : {
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "1.0 - "
-          }
-        }
-      }
-    },
     "A regular plant care schedule will help you ensure your plants are growing properly. Hang up a whiteboard where you can see it with daily, weekly, and monthly hydroponic growing tasks." : {
       "localizations" : {
         "zh-HK" : {
@@ -116,7 +106,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "關於此計劃"
+            "value" : "關於"
           }
         }
       }
@@ -241,12 +231,12 @@
         }
       }
     },
-    "After enable notifications in this app, this app will send you a notification of checking out the live data." : {
+    "After enable notifications in this app, this app will send you a notification of checking out the live data. You can change this settings on Settings later." : {
       "localizations" : {
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一旦用戶啟用程式通知，程式會定期傳送通知給用戶去提醒他們查看實時數據。"
+            "value" : "啟用後，程式會定期傳送通知給用戶去查看實時數據。用戶可在之後更改此設定。"
           }
         }
       }
@@ -307,16 +297,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "程式資訊"
-          }
-        }
-      }
-    },
-    "App Version & Description" : {
-      "localizations" : {
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "程式版本及描述"
           }
         }
       }
@@ -751,12 +731,12 @@
         }
       }
     },
-    "iOS 16.0" : {
+    "iOS 17.1" : {
       "localizations" : {
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iOS 16.0"
+            "value" : "iOS 17.1"
           }
         }
       }
